@@ -39,7 +39,7 @@
 ### 2. 下载项目
 
 ```bash
-git clone https://github.com/vvbbnn00/WARP-Clash-API.git
+git clone https://github.com/thefatedefeater/WARP-Clash-API.git
 ```
 
 ### 3. [可选] 配置`SECRET_KEY`
